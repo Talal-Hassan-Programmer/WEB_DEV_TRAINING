@@ -2,10 +2,6 @@
 
 Welcome to my Web Development Training Projects repository! This repository contains various projects that I have created to enhance my skills in HTML, CSS, and JavaScript. Each project is a step towards mastering web development and showcases different concepts and techniques.
 
-## Projects List
-
- From #1 To #3 Only HTML
-
 
 ## Technologies Used
 
@@ -14,6 +10,7 @@ This repository primarily uses the following technologies:
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling the web pages.
 - **JavaScript**: For adding interactivity and dynamic content.
+- **Oters**: In Future
 
 ## Getting Started
 

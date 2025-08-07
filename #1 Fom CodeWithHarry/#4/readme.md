@@ -1,4 +1,4 @@
-# Project #1: Starting CSS
+# Project #4: Starting CSS
 
 Here is the task given to me to do:
 

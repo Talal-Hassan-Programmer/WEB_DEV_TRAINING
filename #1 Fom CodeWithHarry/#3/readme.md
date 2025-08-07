@@ -1,4 +1,4 @@
-# Project ##: A vodeo and audio player 
+# Project #3: A video and audio player 
 
 6 videos and 6 audios not to complecated to make.
 
