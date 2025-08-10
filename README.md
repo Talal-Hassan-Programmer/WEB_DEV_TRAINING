@@ -18,4 +18,4 @@ To get a local copy of this repository up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-development-training-projects.git
+   git clone https://github.com/Talal-Hassan-Programmer/WEB_DEV_TRAINING.git
